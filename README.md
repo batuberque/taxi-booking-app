@@ -1,3 +1,3 @@
 # taxi-booking-app
 
-This application copy from nimble.
+This application copied from nimble.
